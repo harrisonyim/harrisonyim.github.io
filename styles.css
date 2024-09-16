@@ -8,3 +8,24 @@ h1
     text-align: center;
     color: forestgreen;
 }
+.about
+{
+    text-align: left;
+    color: blueviolet;
+}
+.skills
+{
+    text-align: left;
+    color: plum;
+}
+.projects
+{
+    background-color: orange;
+    color: blue;
+    text-align: left;
+}
+.contact
+{
+    text-align: left;
+    color: aqua;
+}
